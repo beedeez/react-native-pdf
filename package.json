@@ -7,7 +7,7 @@
     "typings": "./index.d.ts",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/wonday/react-native-pdf.git"
+        "url": "git+https://github.com/beedeez/react-native-pdf.git"
     },
     "keywords": [
         "react-component",
@@ -19,13 +19,13 @@
         "viewer"
     ],
     "author": {
-        "name": "Wonday",
-        "url": "https://github.com/wonday"
+        "name": "Beedeez (via Wonday)",
+        "url": "https://github.com/beedeez"
     },
     "license": "MIT",
-    "homepage": "https://github.com/wonday/react-native-pdf",
+    "homepage": "https://github.com/beedeez/react-native-pdf",
     "bugs": {
-        "url": "https://github.com/wonday/react-native-pdf/issues"
+        "url": "https://github.com/beedeez/react-native-pdf/issues"
     },
     "dependencies": {
         "crypto-js": "^3.2.0",
